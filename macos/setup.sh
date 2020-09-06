@@ -7,6 +7,7 @@ brew cask install docker
 brew cask install iterm2
 brew cask install visual-studio-code
 brew cask install atom
+brew cask install postman
 
 #Browsers
 brew cask install chrome
@@ -45,3 +46,6 @@ cp -f ./files/.zshrc ~/.zshrc
 # git config setup 
 git config --global user.name "Hamish Buckmaster"
 git config --global user.email "HamishBuckmaster@users.noreply.github.com"
+
+# generate a ssh key for later use
+ssh-keygen -t rsa -b 4096 -C "HamishBuckmaster@users.noreply.github.com"
