@@ -3,6 +3,7 @@
 # Development Tools
 brew install git
 brew install nvm
+brew install python@3.7
 brew cask install docker
 brew cask install iterm2
 brew cask install visual-studio-code
