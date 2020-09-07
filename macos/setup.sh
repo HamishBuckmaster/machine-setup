@@ -4,6 +4,7 @@
 brew install git
 brew install nvm
 brew install python@3.7
+brew install yarn
 brew cask install docker
 brew cask install iterm2
 brew cask install visual-studio-code
@@ -19,6 +20,7 @@ brew cask install discord
 
 # MISC
 brew cask install flux
+brew cask install spotify
 brew cask install private-internet-access
 brew cask install buttercup
 
