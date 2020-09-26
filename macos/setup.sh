@@ -11,6 +11,9 @@ brew cask install visual-studio-code
 brew cask install atom
 brew cask install postman
 
+# android compat
+brew cask install android-file-transfer
+
 #Browsers
 brew cask install chrome
 brew cask install brave
