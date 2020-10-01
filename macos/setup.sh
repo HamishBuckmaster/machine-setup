@@ -11,6 +11,7 @@ brew cask install visual-studio-code
 brew cask install atom
 brew cask install postman
 brew cask install jetbrains-toolbox
+brew cask install bettertouchtool
 
 # android compat
 brew cask install android-file-transfer
