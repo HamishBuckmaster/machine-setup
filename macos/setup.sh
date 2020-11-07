@@ -7,6 +7,7 @@ brew install python@3.7
 brew install yarn
 brew install terraform
 brew install pulumi
+brew install gpg
 brew cask install docker
 brew cask install iterm2
 brew cask install visual-studio-code
