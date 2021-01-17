@@ -15,6 +15,7 @@ brew cask install atom
 brew cask install postman
 brew cask install jetbrains-toolbox
 brew cask install bettertouchtool
+brew install --cask rectangle
 
 # android compat
 brew cask install android-file-transfer
