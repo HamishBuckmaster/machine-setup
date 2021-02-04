@@ -127,6 +127,9 @@ POWERLEVEL9K_PROMPT_ADD_NEWLINE=true
 #   export EDITOR='mvim'
 # fi
 
+# gpg settings
+export GPG_TTY=$(tty)
+
 # NVM settings
 export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
@@ -148,3 +151,5 @@ atom () { VSCODE_CWD="$PWD" open -n -b "com.github.ATOM" --args $* ;}
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+export PATH="/usr/local/opt/python@3.7/bin:$PATH"
+if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi

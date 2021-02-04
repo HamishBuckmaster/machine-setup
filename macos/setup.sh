@@ -16,6 +16,10 @@ brew cask install postman
 brew cask install jetbrains-toolbox
 brew cask install bettertouchtool
 brew install --cask rectangle
+# ruby 
+brew install rbenv ruby-build
+rbenv install 3.0.0
+rbenv global 3.0.0
 
 # android compat
 brew cask install android-file-transfer
