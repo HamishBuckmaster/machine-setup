@@ -8,6 +8,7 @@ brew install yarn
 brew install terraform
 brew install pulumi
 brew install gpg
+brew install scroll-reverser
 brew cask install docker
 brew cask install iterm2
 brew cask install visual-studio-code
