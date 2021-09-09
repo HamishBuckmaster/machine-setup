@@ -16,5 +16,7 @@ winget install "CORSAIR iCUE 4 Software"
 winget install spotify
 winget install ShareX
 
+:: Add NVM https://github.com/coreybutler/nvm-windows
+
 :: Astro Command Center - Not available via the package manager
 :: teamspeak 5 (still in beta)
