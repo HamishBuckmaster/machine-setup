@@ -3,6 +3,7 @@
 winget install steam
 winget install discord
 winget install vscode
+winget install git
 winget install googlechrome
 winget install brave
 winget install "EA Desktop"
