@@ -9,34 +9,37 @@ brew install terraform
 brew install pulumi
 brew install gpg
 brew install scroll-reverser
-brew cask install docker
-brew cask install iterm2
-brew cask install visual-studio-code
-brew cask install atom
-brew cask install postman
-brew cask install jetbrains-toolbox
-brew cask install bettertouchtool
+brew install --cask docker
+brew install --cask iterm2
+brew install --cask visual-studio-code
+brew install --cask atom
+brew install --cask postman
+brew install --cask jetbrains-toolbox
+brew install --cask bettertouchtool
 brew install --cask rectangle
 # ruby 
 brew install rbenv ruby-build
 rbenv install 3.0.0
 rbenv global 3.0.0
 
-# android compat
-brew cask install android-file-transfer
+# Open JDK 
+brew install --cask adoptopenjdk/openjdk/adoptopenjdk8
 
-#Browsers
-brew cask install chrome
-brew cask install brave
+# android compat
+brew install --cask android-file-transfer
+
+# Browsers
+brew install --cask chrome
+brew install --cask brave
 
 # Social Tools
-brew cask install discord
+brew install --cask discord
 
 # MISC
-brew cask install flux
-brew cask install spotify
-brew cask install private-internet-access
-brew cask install buttercup
+brew install --cask flux
+brew install --cask spotify
+brew install --cask private-internet-access
+brew install --cask buttercup
 
 
 # install zsh plugins #
