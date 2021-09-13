@@ -22,8 +22,9 @@ brew install rbenv ruby-build
 rbenv install 3.0.0
 rbenv global 3.0.0
 
-# Open JDK 
+# Open JDK / Android setup
 brew install --cask adoptopenjdk/openjdk/adoptopenjdk8
+brew install --cask android-studio
 
 # android compat
 brew install --cask android-file-transfer
