@@ -25,6 +25,7 @@ rbenv global 3.0.0
 # Open JDK / Android setup
 brew install --cask adoptopenjdk/openjdk/adoptopenjdk8
 brew install --cask android-studio
+brew install watchman
 
 # android compat
 brew install --cask android-file-transfer
