@@ -16,6 +16,7 @@ winget install buttercup
 winget install "CORSAIR iCUE 4 Software"
 winget install spotify
 winget install ShareX
+winget install Microsoft.PowerToys
 
 :: Add NVM https://github.com/coreybutler/nvm-windows
 
