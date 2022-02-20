@@ -8,4 +8,6 @@ The MACOS set up is powered by homebrew
 
 ## windows
 
-TODO: add this information later
+Runs a powershell script based on the winget command provided by microsoft
+
+[Winget](https://docs.microsoft.com/en-us/windows/package-manager/winget/)
