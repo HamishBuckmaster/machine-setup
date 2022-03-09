@@ -8,6 +8,7 @@ brew install yarn
 brew install terraform
 brew install pulumi
 brew install gpg
+brew install pinentry-mac
 brew install scroll-reverser
 brew install --cask docker
 brew install --cask iterm2
