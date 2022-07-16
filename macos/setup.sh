@@ -18,6 +18,8 @@ brew install --cask postman
 brew install --cask jetbrains-toolbox
 brew install --cask bettertouchtool
 brew install --cask rectangle
+brew install --cask betterdisplay
+
 # ruby 
 brew install rbenv ruby-build
 rbenv install 3.0.0
